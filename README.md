@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subham777-max
-- 👀 I’m interested in Devolopment,AI,Data Science
+- 👀 I’m interested in Devolopment,AI
 - 🌱 I’m currently learning Web-devolopment
 - 💞️ I’m looking to collaborate on devolopment projects
 - 📫 How to reach me by email: subhamray865@gmail.com
