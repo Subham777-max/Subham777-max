@@ -60,29 +60,36 @@ Previously, I served as a **Frontend Developer Intern at AskMeIdentity** (3 mont
 
 #### ◈ &nbsp; AI & Intelligence
 
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Integration-111111?style=flat-square&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-111111?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0a0a0a?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0a0a0a?style=flat-square&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0a0a0a?style=flat-square&logo=anthropic&logoColor=white)
 
 #### ◈ &nbsp; Frontend
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![SCSS](https://img.shields.io/badge/SCSS-111111?style=flat-square&logo=sass&logoColor=CC6699)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![SCSS](https://img.shields.io/badge/SCSS-0a0a0a?style=flat-square&logo=sass&logoColor=CC6699)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
 
-#### ◈ &nbsp; Backend & Database
+#### ◈ &nbsp; Backend & Realtime
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![Socket.io](https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=flat-square&logo=express&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-0a0a0a?style=flat-square&logo=webrtc&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0a0a0a?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=4EA94B)
+
+#### ◈ &nbsp; Infrastructure & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 <br/>
-
----
 
 <br/>
 
